@@ -41,6 +41,8 @@ def predict():
     return jsonify({"prediction": result})
 
 if __name__ == "__main__":
+   
+   
    import os
 
 if __name__ == "__main__":
